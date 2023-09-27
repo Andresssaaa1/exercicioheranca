@@ -1,0 +1,15 @@
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Heranca_Pedagio\Heranca_Pedagio\bin\Debug\net6.0\Heranca_Pedagio.exe
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Heranca_Pedagio\Heranca_Pedagio\bin\Debug\net6.0\Heranca_Pedagio.deps.json
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Heranca_Pedagio\Heranca_Pedagio\bin\Debug\net6.0\Heranca_Pedagio.runtimeconfig.json
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Heranca_Pedagio\Heranca_Pedagio\bin\Debug\net6.0\Heranca_Pedagio.dll
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Heranca_Pedagio\Heranca_Pedagio\bin\Debug\net6.0\Heranca_Pedagio.pdb
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Heranca_Pedagio\Heranca_Pedagio\obj\Debug\net6.0\Heranca_Pedagio.csproj.AssemblyReference.cache
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Heranca_Pedagio\Heranca_Pedagio\obj\Debug\net6.0\Heranca_Pedagio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Heranca_Pedagio\Heranca_Pedagio\obj\Debug\net6.0\Heranca_Pedagio.AssemblyInfoInputs.cache
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Heranca_Pedagio\Heranca_Pedagio\obj\Debug\net6.0\Heranca_Pedagio.AssemblyInfo.cs
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Heranca_Pedagio\Heranca_Pedagio\obj\Debug\net6.0\Heranca_Pedagio.csproj.CoreCompileInputs.cache
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Heranca_Pedagio\Heranca_Pedagio\obj\Debug\net6.0\Heranca_Pedagio.dll
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Heranca_Pedagio\Heranca_Pedagio\obj\Debug\net6.0\refint\Heranca_Pedagio.dll
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Heranca_Pedagio\Heranca_Pedagio\obj\Debug\net6.0\Heranca_Pedagio.pdb
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Heranca_Pedagio\Heranca_Pedagio\obj\Debug\net6.0\Heranca_Pedagio.genruntimeconfig.cache
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Heranca_Pedagio\Heranca_Pedagio\obj\Debug\net6.0\ref\Heranca_Pedagio.dll
